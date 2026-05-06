@@ -1,0 +1,105 @@
+# ביצי הזהב חולון — Generative Engine Optimization Map
+
+> An egg shop or egg retail business, focused on selling eggs to customers. The business operates in the food and agriculture sector, likely offering fresh eggs either directly from farms or as a specialty retailer.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ביצי הזהב חולון מביאה לשולחנכם ביצים טריות ממשק בכל יום. מכירת ביצים איכותיות, ביצי חופש ומגוון רחב — ישירות אליכם בחולון. הזמינו היום!
+
+### איכות וסורסינג
+https://example.com/quality-sourcing
+גלו כיצד ביצי הזהב חולון בוחרת רק את הביצים הטובות ביותר: ביצי חופש טריות ממשקים מובחרים, תהליך מיון קפדני ואיכות שניתן לסמוך עליה בכל ביצה וביצה.
+
+### אודות
+https://example.com/about
+הכירו את הצוות שמאחורי ביצי הזהב חולון — עסק משפחתי עם תשוקה אמיתית למכירת ביצים טריות ואיכותיות. אנחנו כאן כדי להביא לכם את הטוב ביותר מהמשק מדי יום.
+
+### צור קשר
+https://example.com/contact
+רוצים להזמין ביצי חופש טריות בחולון או לשמוע על מבצעים מיוחדים? צרו קשר עם ביצי הזהב חולון עכשיו — אנחנו זמינים לכל שאלה, הזמנה ושיתוף פעולה. מחכים לכם!
+
+### Products
+https://example.com/products
+המוצרים שלנו - ביצי הזהב חולון
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ביצי הזהב חולון
+
+### Category
+https://example.com/category/:slug
+מוצרים - ביצי הזהב חולון
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ביצי הזהב חולון
+An egg shop or egg retail business, focused on selling eggs to customers. The business operates in the food and agriculture sector, likely offering fresh eggs either directly from farms or as a specialty retailer.
+
+## Services/Products
+- מכירת ביצים
+
+## Target Audience
+- בעלי מסעדות מקומיים
+- משפחות מודעות לבריאות
+- שווקים חקלאיים מקומיים
+- חובבי בישול
+- בעלי מאפיות
+
+## Industry
+מזון וחקלאות
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
